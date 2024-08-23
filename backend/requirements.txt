@@ -1,0 +1,11 @@
+Flask
+flask-cors
+langchain
+python-dotenv
+langchain-openai
+langchain-community
+faiss-cpu
+neo4j
+langchain-experimental
+wikipedia
+langchain-text-splitters
